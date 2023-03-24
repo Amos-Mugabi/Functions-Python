@@ -14,12 +14,12 @@ print(),len(),int(), str(), max(), min(), sum(), sorted(), range(), abs()
 """
 #Structure of a fxn.
 #Defn
+
 def product():
     return 18*3
 #calling the fxn
 print(product())
 """
-
 
 """
 def sum_of_numbers(num1, num2):
@@ -45,7 +45,6 @@ def is_even(number):
 product = lambda a,b: a*b
 print(product(8,6))
             
-
 
 
 
